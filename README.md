@@ -33,7 +33,7 @@
 
 ## ⚙ Tech Stack
 <p align="center">
-<img src="https://source.android.com/setup/images/Android_symbol_green_RGB.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
+<img src="https://source.android.com/setup/images/Android_symbol_green_RGB.svg" alt="Android" width="70" height="70"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
   
