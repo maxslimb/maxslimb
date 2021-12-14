@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/kishanpatel28/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maxslimb/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/instagram-icon.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCO8qxsOp-wSxBRPkyu6Aq2g" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/youtube.svg" alt="" height="30" width="40" /></a>
-<br><br><br><br>
+<br><br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=maxslimb.maxslimb&left_color=black&right_color=blue" alt="visitor badge"/>
 </p>
 
