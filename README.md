@@ -1,13 +1,13 @@
 
 Hi there 👋
-<h1 align="center"> <img src="https://github.com/maxslimb/maxslimb/blob/master/hello.jpeg" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/kishanpatel28/">Kishan Patel</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/maxslimb/maxslimb/blob/ea1a2872d508523f649110e7316f430f6adb25da/hello.jpeg" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/kishanpatel28/">Kishan Patel</a>👨‍💻</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maxslimb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kishanpatel28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maxslimb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCO8qxsOp-wSxBRPkyu6Aq2g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/maxslimb" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishanpatel28/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maxslimb/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/instagram-icon.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCO8qxsOp-wSxBRPkyu6Aq2g" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maxslimb.maxslimb)  
