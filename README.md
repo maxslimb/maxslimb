@@ -15,6 +15,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" width="400px" />
 
+##
 ## 🧐 About
 - 🏄‍ Founder Learn Bytes
 - 👨‍💻 Full Stack Developer 
