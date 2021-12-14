@@ -10,10 +10,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=maxslimb.maxslimb&left_color=black&right_color=blue" alt="visitor badge"/>
 </p>
 
- ![]() 
-
-
-
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
 #### I'm Kishan Patel, Student at 👨‍💻 PHCET Mumbai Pursuing Computer Engineering.  I am tech enthusiast who loves building Full Stack Applications currently focussing on Blockchain Development
 
