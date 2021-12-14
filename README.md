@@ -14,7 +14,6 @@
 #### I'm Kishan Patel, Student at 👨‍💻 PHCET Mumbai Pursuing Computer Engineering.  I am tech enthusiast who loves building Full Stack Applications currently focussing on Blockchain Development
 
 <img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" width="400px" />
-<br><br>
 
 ## 🧐 About
 - 🏄‍ Founder Learn Bytes
