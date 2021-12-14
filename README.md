@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/maxslimb/maxslimb/blob/5070d2d19681067bd3bafadd0cdba18019bc6aba/hello.gif" height="254" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/kishanpatel28/">Kishan Patel</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/maxslimb/maxslimb/blob/5070d2d19681067bd3bafadd0cdba18019bc6aba/hello.gif" height="354" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/kishanpatel28/">Kishan Patel</a>👨‍💻</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
