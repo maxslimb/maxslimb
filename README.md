@@ -1,7 +1,7 @@
-<h1 align="center"> <img src="https://github.com/maxslimb/maxslimb/blob/5070d2d19681067bd3bafadd0cdba18019bc6aba/hello.gif" height="354" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/kishanpatel28/">Kishan Patel</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/maxslimb/maxslimb/blob/5070d2d19681067bd3bafadd0cdba18019bc6aba/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/kishanpatel28/">Kishan Patel</a>👨‍💻</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="center">
 <a href="https://twitter.com/maxslimb" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kishanpatel28/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maxslimb/" target="blank"><img align="center" src="https://github.com/get-icon/geticon/blob/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/instagram-icon.svg" alt="" height="30" width="40" /></a>
