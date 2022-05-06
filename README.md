@@ -19,8 +19,8 @@
 ## 🧐 About
 - 🏄‍ Founder Learn Bytes
 - 👨‍💻 Full Stack Developer 
-- 🌟 Ex Head of Product Development at [DoubtConnect](https://doubtconnect.in/)
-- 😄 Jt. Chairman CSI PHCET
+- 🌟 Former Head of Product Development at [DoubtConnect](https://doubtconnect.in/)
+- 😄 Former Jt. Chairman CSI PHCET
 - 🤔 Looking some help with Blockchain and Smart Contracts.
 - 🌱 I love to learn new things and ready to help others.
 - 💻 All of my projects are available [here](https://github.com/maxslimb).
