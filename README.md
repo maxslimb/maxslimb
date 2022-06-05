@@ -10,7 +10,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=maxslimb.maxslimb&left_color=black&right_color=blue" alt="visitor badge"/>
 </p>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px">           
 #### I'm Kishan Patel, Student at 👨‍💻 PHCET Mumbai Pursuing Computer Engineering.  I am tech enthusiast who loves building Full Stack Applications currently focussing on Blockchain Development
 
 <img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" width="400px" />
