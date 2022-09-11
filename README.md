@@ -11,7 +11,7 @@
 </p>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "29px" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height= "24px" width="24px">        
-#### I'm Kishan Patel, Student at 👨‍💻 PHCET Mumbai Pursuing Computer Engineering.  I am tech enthusiast who loves building Full Stack Applications currently focussing on Blockchain Development
+#### I'm Kishan Patel, Student at 👨‍💻 Illinois Tech, Chicago Pursuing MS in Computer Science.  I am tech enthusiast who loves building Full Stack Applications currently learning on Blockchain Development
 
 <img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" 
      height="500px" width="400px" />
@@ -22,8 +22,8 @@
 - 👨‍💻 Full Stack Developer 
 - 🌟 Former Head of Product Development at [DoubtConnect](https://doubtconnect.in/)
 - 😄 Former Jt. Chairman [CSI PHCET](http://csi.phcet.ac.in/)
-- 🤔 Looking some help with DAO creation.
-- 🌱 I love to learn new things and ready to help others.
+- 🤔 Looking some help with Android NFC host based card emulation
+- 🌱 I love to learn new things and am always ready to help others.
 - 💻 All of my projects are available [here](https://github.com/maxslimb).
 - ⚡ In my free time, you'll find me watching movies
 - 📫 How to reach me: mail me at [kpatel3032@gmail.com](mailto:kpatel3032@gmail.com)
