@@ -11,7 +11,7 @@
 </p>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "29px" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height= "24px" width="24px">        
-#### I'm Kishan Patel, Student at 👨‍💻 Illinois Tech, Chicago Pursuing MS in Computer Science.  I am tech enthusiast who loves building Full Stack Applications currently learning Blockchain Development
+#### I'm Kishan Patel, Student at 👨‍💻 Illinois Tech, Chicago Pursuing MS in Computer Science.  I am tech enthusiast who loves building Full Stack Applications currently mentoring at Hackathons!
 
 <img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" 
      height="500px" width="400px" />
