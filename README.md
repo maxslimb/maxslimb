@@ -23,11 +23,11 @@
 - 🌟 Former Head of Product Development at [DoubtConnect](https://doubtconnect.in/)
 - 😄 Former Jt. Chairman [CSI PHCET](http://csi.phcet.ac.in/)
 - 🤔 Looking some help with Android NFC host based card emulation
-- 🌱 I love to learn new things and am always ready to help others.
+- 🌱 I love to learn new things and am always ready to help others
 - 💻 All of my projects are available [here](https://github.com/maxslimb).
 - ⚡ In my free time, you'll find me watching movies
 - 📫 How to reach me: mail me at [kpatel3032@gmail.com](mailto:kpatel3032@gmail.com)
-- 🧙‍♂️ Currently working on Advancing My Skills.
+- 🧙‍♂️ Currently working on Advancing My Skills
 - 💬 Ask me about anything and everything! 
 - 🎨 Fun Fact: Being hydrated increases my productivity
 - 👯 And Many More...
