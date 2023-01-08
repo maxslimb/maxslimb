@@ -29,7 +29,7 @@
 - 📫 How to reach me: mail me at [kpatel3032@gmail.com](mailto:kpatel3032@gmail.com)
 - 🧙‍♂️ Currently working on Advancing My Skills.
 - 💬 Ask me about anything and everything! 
-- 🎨 Fun Fact: Being hydrated increases my productivity.
+- 🎨 Fun Fact: Being hydrated increases my productivity
 - 👯 And Many More...
 
 ## ⚙ Tech Stack
