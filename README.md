@@ -18,8 +18,8 @@
 
 ##
 ## 🧐 About
-- 🏄‍ Founder Learn Bytes
-- 👨‍💻 Full Stack Developer 
+- 👨‍💻 Graduate Student
+- 🏄‍ Full Stack Developer 
 - 🌟 Former Head of Product Development at [DoubtConnect](https://doubtconnect.in/)
 - 😄 Former Jt. Chairman [CSI PHCET](http://csi.phcet.ac.in/)
 - 🤔 Looking some help with Android NFC host based card emulation
