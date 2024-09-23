@@ -13,11 +13,12 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "29px" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height= "24px" width="24px">        
 #### I'm Kishan Patel, an alumnus of Illinois Tech, Chicago, where I completed my MS in Computer Science.  I am a tech enthusiast who loves building Full Stack Applications and currently looking for Full Stack Developer Roles!
 
-<img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" 
-     height="400px" width="400px" />
+
 
 ##
 ## 🧐 About
+<img align="right" alt="GIF" src="https://github.com/maxslimb/maxslimb/blob/4709ce4f0b34a455d30ee7de15d84083f61f9255/web_hover_gif.gif" 
+     height="360px" width="400px" />
 - 👨‍💻 Graduate Student
 - 🏄‍ Full Stack Developer 
 - 🌟 Former Head of Product Development at [DoubtConnect](https://doubtconnect.in/)
