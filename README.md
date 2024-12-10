@@ -11,7 +11,7 @@
 </p>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "29px" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height= "24px" width="24px">        
-#### I'm Kishan Patel, an alumnus of Illinois Tech, Chicago, where I completed my MS in Computer Science.  I am a tech enthusiast who loves building Full Stack Applications and currently looking for Full Stack Developer Roles!
+#### I'm Kishan Patel, an alumnus of Illinois Tech, Chicago, where I completed my MS in Computer Science.  I am a tech enthusiast who loves building Full Stack Applications and is looking for Full Stack Developer Roles!
 
 
 
@@ -25,7 +25,7 @@
 - 😄 Former Jt. Chairman [CSI PHCET](http://csi.phcet.ac.in/)
 - 🌱 I love to learn new things and am always ready to help others
 - 💻 All of my projects are available [here](https://github.com/maxslimb).
-- ⚡ In my free time, you'll find me watching movies
+- ⚡ In my free time, you'll find me watching Nolan movies
 - 📫 How to reach me: mail me at [kpatel3032@gmail.com](mailto:kpatel3032@gmail.com)
 - 🧙‍♂️ Currently working on Advancing My Skills
 - 💬 Ask me about anything and everything! 
@@ -52,12 +52,12 @@
   
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="40" height="40"/> 
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
+<!-- <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> -->
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Figma" width="40" height="40"/> 
   
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxslimb&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maxslimb&date_format=M%20j%5B%2C%20Y%5D"/></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maxslimb&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maxslimb&date_format=M%20j%5B%2C%20Y%5D"/></p> -->
